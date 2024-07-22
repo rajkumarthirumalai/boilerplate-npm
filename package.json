@@ -13,9 +13,8 @@
 	},
 	"version": "1.0.0",
 	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
-	"keywords": [],
+	"keywords": [ "descriptive", "related", "words" ],
 	"author": "rajkumar",
-	"description": "A project that does something awesome",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
